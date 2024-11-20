@@ -1,0 +1,420 @@
+
+[
+  {
+    "id": 1,
+    "name": "7 Wonders Duel",
+    "publisher": "Repos Production",
+    "year": 2015,
+    "mechanics": [
+      "Card Drafting",
+      "Set Collection",
+      "Combat",
+      "Engine Building"
+    ],
+    "player_count": "2",
+    "expansions": ["7 Wonders Duel: Pantheon", "7 Wonders Duel: Agora"]
+  },
+  {
+    "id": 2,
+    "name": "Above and Below",
+    "publisher": "Red Raven Games",
+    "year": 2015,
+    "mechanics": [
+      "Storytelling",
+      "Worker Placement",
+      "Set Collection"
+    ],
+    "player_count": "2-4",
+    "expansions": ["Near and Far"]
+  },
+  {
+    "id": 3,
+    "name": "Air, Land and Sea",
+    "publisher": "Arcane Wonders",
+    "year": 2020,
+    "mechanics": [
+      "Card Drafting",
+      "Hand Management",
+      "Area Control"
+    ],
+    "player_count": "2"
+  },
+  {
+    "id": 4,
+    "name": "Azul",
+    "publisher": "Plan B Games",
+    "year": 2017,
+    "mechanics": [
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "player_count": "2-4",
+    "expansions": ["Azul: Stained Glass of Sintra", "Azul: Summer Pavilion"]
+  },
+  {
+    "id": 5,
+    "name": "Bang",
+    "publisher": "dV Giochi",
+    "year": 2002,
+    "mechanics": [
+      "Role Playing",
+      "Hidden Roles",
+      "Hand Management"
+    ],
+    "player_count": "4-7"
+  },
+  {
+    "id": 6,
+    "name": "Cascadia",
+    "publisher": "Flatout Games",
+    "year": 2021,
+    "mechanics": [
+      "Tile Placement",
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "player_count": "1-4"
+  },
+  {
+    "id": 7,
+    "name": "Clank!",
+    "publisher": "Renegade Game Studios",
+    "year": 2016,
+    "mechanics": [
+      "Deck Building",
+      "Push Your Luck",
+      "Dungeon Crawl"
+    ],
+    "player_count": "2-4",
+    "expansions": ["Clank! In! Space!", "Clank! Sunken Treasures", "Clank! Acquisitions Incorporated"]
+  },
+  {
+    "id": 8,
+    "name": "Catan",
+    "publisher": "Kosmos",
+    "year": 1995,
+    "mechanics": [
+      "Resource Management",
+      "Trading",
+      "Set Collection"
+    ],
+    "player_count": "3-4",
+    "expansions": [
+      "Catan: Seafarers",
+      "Catan: Cities & Knights",
+      "Catan: Traders & Barbarians",
+      "Catan: Explorers & Pirates"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chronicles of Crime",
+    "publisher": "Lucky Duck Games",
+    "year": 2018,
+    "mechanics": [
+      "App Integration",
+      "Cooperative",
+      "Crime",
+      "Puzzle"
+    ],
+    "player_count": "1-4",
+    "expansions": ["Chronicles of Crime: 1400", "Chronicles of Crime: 1900", "Chronicles of Crime: Welcome to Redview"]
+  },
+  {
+    "id": 10,
+    "name": "Chronicles of Crime 2400",
+    "publisher": "Lucky Duck Games",
+    "year": 2020,
+    "mechanics": [
+      "App Integration",
+      "Cooperative",
+      "Crime",
+      "Puzzle"
+    ],
+    "player_count": "1-4"
+  },
+  {
+    "id": 11,
+    "name": "Cover Your Assets",
+    "publisher": "Grandpa Beck's Games",
+    "year": 2015,
+    "mechanics": [
+      "Set Collection",
+      "Hand Management",
+      "Take That"
+    ],
+    "player_count": "2-6"
+  },
+  {
+    "id": 12,
+    "name": "Coup",
+    "publisher": "Indie Boards & Cards",
+    "year": 2012,
+    "mechanics": [
+      "Bluffing",
+      "Deduction",
+      "Card Game"
+    ],
+    "player_count": "2-6"
+  },
+  {
+    "id": 13,
+    "name": "Dune Imperium",
+    "publisher": "Dire Wolf Digital",
+    "year": 2020,
+    "mechanics": [
+      "Deck Building",
+      "Worker Placement",
+      "Area Control"
+    ],
+    "player_count": "1-4",
+    "expansions": ["Dune Imperium: Rise of X"]
+  },
+  {
+    "id": 14,
+    "name": "Five Tribes",
+    "publisher": "Days of Wonder",
+    "year": 2014,
+    "mechanics": [
+      "Area Control",
+      "Worker Placement",
+      "Tile Placement",
+      "Set Collection"
+    ],
+    "player_count": "2-4"
+  },
+  {
+    "id": 15,
+    "name": "Fox in the Forest",
+    "publisher": "Renegade Game Studios",
+    "year": 2017,
+    "mechanics": [
+      "Trick-taking",
+      "Set Collection"
+    ],
+    "player_count": "2"
+  },
+  {
+    "id": 16,
+    "name": "Iberia",
+    "publisher": "Mercury Games",
+    "year": 2018,
+    "mechanics": [
+      "Tile Placement",
+      "Area Control",
+      "Set Collection"
+    ],
+    "player_count": "2-4"
+  },
+  {
+    "id": 17,
+    "name": "Imhotep",
+    "publisher": "KOSMOS",
+    "year": 2016,
+    "mechanics": [
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "player_count": "2-4"
+  },
+  {
+    "id": 18,
+    "name": "Jaipur",
+    "publisher": "Space Cowboys",
+    "year": 2009,
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Trading"
+    ],
+    "player_count": "2"
+  },
+  {
+    "id": 19,
+    "name": "Kingdomino",
+    "publisher": "Blue Orange Games",
+    "year": 2016,
+    "mechanics": [
+      "Tile Placement",
+      "Area Control"
+    ],
+    "player_count": "2-4"
+  },
+  {
+    "id": 20,
+    "name": "Lost Cities",
+    "publisher": "Kosmos",
+    "year": 1999,
+    "mechanics": [
+      "Set Collection",
+      "Hand Management"
+    ],
+    "player_count": "2"
+  },
+  {
+    "id": 21,
+    "name": "Lost Ruins of Arnak",
+    "publisher": "Czech Games Edition",
+    "year": 2020,
+    "mechanics": [
+      "Deck Building",
+      "Worker Placement",
+      "Push Your Luck"
+    ],
+    "player_count": "1-4"
+  },
+  {
+    "id": 22,
+    "name": "Machi Koro 2",
+    "publisher": "IDW Games",
+    "year": 2021,
+    "mechanics": [
+      "Dice Rolling",
+      "Set Collection",
+      "City Building"
+    ],
+    "player_count": "2-5"
+  },
+  {
+    "id": 23,
+    "name": "Mysterium",
+    "publisher": "Libellud",
+    "year": 2015,
+    "mechanics": [
+      "Cooperative",
+      "Deduction",
+      "Memory"
+    ],
+    "player_count": "2-7"
+  },
+  {
+    "id": 24,
+    "name": "Monopoly Deal",
+    "publisher": "Hasbro",
+    "year": 2008,
+    "mechanics": [
+      "Set Collection",
+      "Card Game"
+    ],
+    "player_count": "2-5"
+  },
+  {
+    "id": 25,
+    "name": "Root",
+    "publisher": "Leder Games",
+    "year": 2018,
+    "mechanics": [
+      "Area Control",
+      "Asymmetrical Roles",
+      "Card Drafting"
+    ],
+    "player_count": "2-4",
+    "expansions": [
+      "Root: The Riverfolk Expansion",
+      "Root: The Exiles & Partisans Deck",
+      "Root: Marauder Expansion"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
+    "publisher": "Ystari Games",
+    "year": 2020,
+    "mechanics": [
+      "Cooperative",
+      "Deduction",
+      "Storytelling"
+    ],
+    "player_count": "1-8"
+  },
+  {
+    "id": 27,
+    "name": "Skull",
+    "publisher": "Lumenaris",
+    "year": 2011,
+    "mechanics": [
+      "Bluffing",
+      "Push Your Luck"
+    ],
+    "player_count": "3-6"
+  },
+  {
+    "id": 28,
+    "name": "Skull King",
+    "publisher": "Grandpa Beck's Games",
+    "year": 2015,
+    "mechanics": [
+      "Trick-taking",
+      "Betting"
+    ],
+    "player_count": "3-6"
+  },
+  {
+    "id": 29,
+    "name": "Spirit Island",
+    "publisher": "Greater Than Games",
+    "year": 2017,
+    "mechanics": [
+      "Cooperative",
+      "Area Control",
+      "Hand Management"
+    ],
+    "player_count": "1-4"
+  },
+  {
+    "id": 30,
+    "name": "Small World",
+    "publisher": "Days of Wonder",
+    "year": 2009,
+    "mechanics": [
+      "Area Control",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "player_count": "2-7"
+  },
+  {
+    "id": 31,
+    "name": "Sushi Go",
+    "publisher": "Gamewright",
+    "year": 2013,
+    "mechanics": [
+      "Set Collection",
+      "Card Drafting"
+    ],
+    "player_count": "2-5"
+  },
+  {
+    "id": 32,
+    "name": "Ticket to Ride",
+    "publisher": "Days of Wonder",
+    "year": 2004,
+    "mechanics": [
+      "Route Building",
+      "Set Collection"
+    ],
+    "player_count": "2-5"
+  },
+  {
+    "id": 33,
+    "name": "Ticket to Ride Europe",
+    "publisher": "Days of Wonder",
+    "year": 2005,
+    "mechanics": [
+      "Route Building",
+      "Set Collection"
+    ],
+    "player_count": "2-5"
+  },
+  {
+    "id": 34,
+    "name": "Ticket to Ride Nordic Countries",
+    "publisher": "Days of Wonder",
+    "year": 2016,
+    "mechanics": [
+      "Route Building",
+      "Set Collection"
+    ],
+    "player_count": "2-3"
+  }
+]

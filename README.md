@@ -1,8 +1,9 @@
 # Boardgame Directory Project
 
 ## Feature Ideas
-- [ ] Connection to a BGG api? (if public one exists)
-- [ ] List of each board game owned
+- [x] Connection to a BGG api? (if public one exists)
+    - [x] No easily accessible public JSON api
+- [x] List of each board game owned
 - [ ] Details list
     - [ ] Rating
     - [ ] Play Log
