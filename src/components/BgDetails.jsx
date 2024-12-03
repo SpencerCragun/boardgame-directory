@@ -1,7 +1,6 @@
-
+import DetailsForm from "./detailsForm";
 
 const BgDetails = ({ data }) => {
-
   if (!data) {
     return <p>No board game selected. Go back and choose one!</p>;
   }
@@ -24,17 +23,9 @@ const BgDetails = ({ data }) => {
       </section>
 
       {/* a form to record games played / results */}
-      <section className="log-section">
-        <h2>Results</h2>
-        <form className="log-form">
-          <input type="text" placeholder="Who Played?"></input>
-          <input type="text" placeholder="Who Won?"></input>
-          <input type="number" placeholder="Fun Meter 1-10"></input>
-          <input type="text" placeholder="Moments to Remember"></input>
-          <button className="log-button">Save Results!</button>
-        </form>
-      </section>
+      <DetailsForm />
     </>
+
   )
 }
 

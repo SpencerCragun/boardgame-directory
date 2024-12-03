@@ -3,6 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 import BoardgameList from './components/BoardgameList'
 import BgDetails from './components/BgDetails'
 import { useState } from 'react'
+import DetailsForm from './components/detailsForm'
 
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
       <Routes>
         <Route path = "/" 
         element={<BoardgameList onGameSelect={bgDataHandler} />}></Route>
-        <Route path = "/details" element={<BgDetails data={bgData}/>}></Route>
+        <Route path = "/details" 
+        element={<BgDetails data={bgData}/>}></Route>
       </Routes>
     </>
   )
