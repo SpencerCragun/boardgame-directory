@@ -1,24 +1,24 @@
-import { useState, useEffect } from 'react'
 import './App.css'
-import boardgames from "./assets/bg-list.json"
+import { Route, Routes } from 'react-router-dom'
+import BoardgameList from './components/BoardgameList'
+import BgDetails from './components/BgDetails'
+import { useState } from 'react'
+
 
 function App() {
-  const [bgJson, setbgJson] = useState ([]);
-  useEffect (() => {
-    setbgJson(boardgames);
-  }, []);
-
-  console.log(boardgames)
-
+  
+  const [bgData, setBgData] = useState(null);
+  
+  const bgDataHandler = (selectedGame) => {
+    setBgData(selectedGame);
+  };
   return (
     <>
-      {boardgames.map((boardgames, index) => (  
-        <section className='bg-list-item' key={boardgames.id}>
-          <img className='bg-list-img'></img>
-          <h3 className='bg-list-title'>{boardgames.name}</h3>
-          <button className='bg-list-button'>More Details!</button>
-        </section>
-      ))}
+      <Routes>
+        <Route path = "/" 
+        element={<BoardgameList onGameSelect={bgDataHandler} />}></Route>
+        <Route path = "/details" element={<BgDetails data={bgData}/>}></Route>
+      </Routes>
     </>
   )
 }
